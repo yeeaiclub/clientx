@@ -1,4 +1,4 @@
-module github.com/yeeaiclub/clinetx
+module github.com/yeeaiclub/clientx
 
 go 1.25.0
 

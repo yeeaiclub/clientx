@@ -15,7 +15,7 @@ import (
 	"net/url"
 	"time"
 
-	log "github.com/yeeaiclub/clinetx/internal/logger"
+	log "github.com/yeeaiclub/clientx/internal/logger"
 
 	goquery "github.com/google/go-querystring/query"
 )
